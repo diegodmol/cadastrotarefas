@@ -8,7 +8,7 @@ Aplicação simples de cadastro de tarefas desenvolvida com **React** e **Vite**
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/) *(opcional, se estiver usando)*
+- [Tailwind CSS](https://tailwindcss.com/)
 - `localStorage` para persistência de dados
 
 ---
