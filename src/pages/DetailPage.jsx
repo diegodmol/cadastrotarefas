@@ -11,7 +11,7 @@ function DetailPage() {
 
   return (
     <div className="w-screen h-screen bg-slate-500  p-6">
-      <div className="w-[500] space-y-4">
+      <div className="w-[500] mx-auto space-y-4">
         <div className="flex justify-center relative mb-6">
           <Button
             onClick={() => navigate(-1)}
